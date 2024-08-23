@@ -58,8 +58,8 @@ To get a local copy up and running, follow these simple steps.
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/DevKrishnasai/my-portfolio
-cd my-portfolio
+git clone https://github.com/dheeraj0000/Portfolio
+cd Portfolio
 ```
 
 ### Install Dependencies
