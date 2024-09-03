@@ -151,7 +151,7 @@ export const ProjectList = [
     demo_url: "https://ipl2024.ccbp.tech/",
   },
   {
-    img: "/monkeypoximage.jpg",
+    img: "/monkeypoximages.jpg",
     title: "Monkeypox Disease prediction",
     description:
       "Strengthened disease monitoring and outbreak preparedness by providing valuable insights through precise data evaluation and predictive analytics.",
