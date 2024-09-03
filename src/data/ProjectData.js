@@ -150,6 +150,24 @@ export const ProjectList = [
     github_url: "https://github.com/dheeraj0000/IPL-DAHBOARD-2024",
     demo_url: "https://ipl2024.ccbp.tech/",
   },
+  {
+    img: "/monkeypoximage.jpg",
+    title: "Monkeypox Disease prediction",
+    description:
+      "Strengthened disease monitoring and outbreak preparedness by providing valuable insights through precise data evaluation and predictive analytics.",
+    tech_stack: [
+      "Machine learning",
+      "Artificial Intelligence",
+      "Python",
+      "streamlit",
+      "Html",
+      "CSS",
+      "Javascript",
+
+    ],
+    github_url: "https://github.com/dheeraj0000/monkeypox-csv",
+    demo_url: "https://monkeypox-csv-hu95h3l4v47ljgriicdepj.streamlit.app/",
+  },
   
   {
     img: "/chatvoice.jpg",
@@ -189,24 +207,7 @@ export const ProjectList = [
     demo_url: "https://huggingface.co/spaces/DHEERAJ9182/MyGenAIChatBot",
   },
 
-  {
-    img: "/monkeypoximage.jpg",
-    title: "Monkeypox Disease prediction",
-    description:
-      "Strengthened disease monitoring and outbreak preparedness by providing valuable insights through precise data evaluation and predictive analytics.",
-    tech_stack: [
-      "Machine learning",
-      "Artificial Intelligence",
-      "Python",
-      "streamlit",
-      "Html",
-      "CSS",
-      "Javascript",
-
-    ],
-    github_url: "https://github.com/dheeraj0000/monkeypox-csv",
-    demo_url: "https://monkeypox-disease-prediction.onrender.com/",
-  },
+  
   {
     img: "OR Code.jpg",
     title: "QR Code Generator",
