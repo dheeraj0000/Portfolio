@@ -97,10 +97,10 @@ export const uiLibraries = [
 
 ];
 export const servicesList = [
-  {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcuaYLcqWju1WRwvsllORQnyM4K90V4WX74lXan86WABZIyuOrlMTRDaE78yChZ3Wl-wY&usqp=CAU",
-    name: "Firebase",
-  },
+  //{
+    //img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcuaYLcqWju1WRwvsllORQnyM4K90V4WX74lXan86WABZIyuOrlMTRDaE78yChZ3Wl-wY&usqp=CAU",
+    //name: "Firebase",
+  //},
   {
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4yMat4FGyt0-zd_oYGGUSQubI-3Ta71KDDQ&s",
     name: "AWS",
@@ -116,10 +116,10 @@ export const tools = [
     img: "https://logowik.com/content/uploads/images/visual-studio-code7642.jpg",
     name: "Vs code",
   },
-  {
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/900px-Android_Studio_icon_%282023%29.svg.png",
-    name: "Android Studio",
-  },
+  //{
+    //img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/900px-Android_Studio_icon_%282023%29.svg.png",
+    //name: "Android Studio",
+  //},
 ];
 
 // -------- Project Section
